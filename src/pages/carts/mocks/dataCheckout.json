@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Koi Fish",
+    "quantity": 2,
+    "tipe": "Ikan Hias",
+    "harga": 10000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVwrWjMAtamS0GjLHNYA54dx3ePhSQH1Vxw&s"
+  },
+  {
+    "name": "Gold Fish",
+    "quantity": 5,
+    "tipe": "Ikan Hias",
+    "harga": 50000,
+    "image": "https://t3.ftcdn.net/jpg/05/81/17/94/360_F_581179496_6cTu1niY9h4xMIjbN6Y65On83zBFXU6a.jpg"
+  },
+  {
+    "name": "Clown Fish",
+    "quantity": 8,
+    "tipe": "Ikan Hias",
+    "harga": 80000,
+    "image": "https://i.pinimg.com/736x/8e/5e/8c/8e5e8c54f5eaf99c233eb6295f0ff27c.jpg"
+  }
+]

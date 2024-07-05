@@ -1,0 +1,39 @@
+[
+    {
+      "name": "Chevrolet Chevy 2015",
+      "rating": 1.5,
+      "harga": "Rp. 100.000.000",
+      "type": "SUV",
+      "model": "Chevy",
+      "description": "The 2015 Chevrolet Equinox is more refined and quiet than many of its competitors, while offering the versatility and value that a budget-conscious family would expect. The 2015 Chevrolet Equinox doesn't miss any critical points, and although it's hardly exciting, it's a great pick for families who need affordability, ample cargo space, and flexible seating, as well as with good maneuverability and fuel efficiency.",
+      "image": ["https://asset.kompas.com/crops/jq9cEEyryqELyEjNQZfkkx3X1eI=/0x0:1000x500/1200x800/data/photo/2017/04/10/3394839643.jpg", "https://imgcdnblog.carbay.com/wp-content/uploads/2016/10/05103005/728718_9523489888_a911e8d03c_o.jpg", "https://img.hargamobil.com/2019/04/11/pSd6RLkq/chevrolet-trailblazer-4b64.png"],
+      "reviews": [
+        {
+          "rating": 1,
+          "name": "Fullname1",
+          "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores excepturi nobis officiis adipisci fugit omnis cum, iste dolorum sequi eaque delectus tempora laboriosam eos sapiente, exercitationem sunt ex, fugiat nisi? Maiores velit ab perspiciatis, corrupti magnam fugit atque quisquam ut? Amet et saepe impedit beatae aperiam iste neque quas sed ea magnam repellendus a perspiciatis ducimus, corporis ab tempore omnis dolore quo voluptas. Nisi voluptas beatae neque assumenda quo fugit sequi illum ex dolore, laborum delectus ratione inventore fuga commodi soluta voluptatum dolorum pariatur maiores deleniti? Minus fugiat ullam, dolor sint doloremque odio veritatis architecto explicabo repellat, consectetur nesciunt voluptatibus?"
+        },
+        {
+          "rating": 2,
+          "name": "Fullname3",
+          "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores excepturi nobis officiis adipisci fugit omnis cum, iste dolorum sequi eaque delectus tempora laboriosam eos sapiente, exercitationem sunt ex, fugiat nisi? Maiores velit ab perspiciatis, corrupti magnam fugit atque quisquam ut? Amet et saepe impedit beatae aperiam iste neque quas sed ea magnam repellendus a perspiciatis ducimus, corporis ab tempore omnis dolore quo voluptas. Nisi voluptas beatae neque assumenda quo fugit sequi illum ex dolore, laborum delectus ratione inventore fuga commodi soluta voluptatum dolorum pariatur maiores deleniti? Minus fugiat ullam, dolor sint doloremque odio veritatis architecto explicabo repellat, consectetur nesciunt voluptatibus?"
+        },
+        {
+          "rating": 1,
+          "name": "Fullname6",
+          "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores excepturi nobis officiis adipisci fugit omnis cum, iste dolorum sequi eaque delectus tempora laboriosam eos sapiente, exercitationem sunt ex, fugiat nisi? Maiores velit ab perspiciatis, corrupti magnam fugit atque quisquam ut? Amet et saepe impedit beatae aperiam iste neque quas sed ea magnam repellendus a perspiciatis ducimus, corporis ab tempore omnis dolore quo voluptas. Nisi voluptas beatae neque assumenda quo fugit sequi illum ex dolore, laborum delectus ratione inventore fuga commodi soluta voluptatum dolorum pariatur maiores deleniti? Minus fugiat ullam, dolor sint doloremque odio veritatis architecto explicabo repellat, consectetur nesciunt voluptatibus?"
+        },
+        {
+          "rating": 1,
+          "name": "Fullname2",
+          "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores excepturi nobis officiis adipisci fugit omnis cum, iste dolorum sequi eaque delectus tempora laboriosam eos sapiente, exercitationem sunt ex, fugiat nisi? Maiores velit ab perspiciatis, corrupti magnam fugit atque quisquam ut? Amet et saepe impedit beatae aperiam iste neque quas sed ea magnam repellendus a perspiciatis ducimus, corporis ab tempore omnis dolore quo voluptas. Nisi voluptas beatae neque assumenda quo fugit sequi illum ex dolore, laborum delectus ratione inventore fuga commodi soluta voluptatum dolorum pariatur maiores deleniti? Minus fugiat ullam, dolor sint doloremque odio veritatis architecto explicabo repellat, consectetur nesciunt voluptatibus?"
+        },
+        {
+          "rating": 1,
+          "name": "Fullname8",
+          "message": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolores excepturi nobis officiis adipisci fugit omnis cum, iste dolorum sequi eaque delectus tempora laboriosam eos sapiente, exercitationem sunt ex, fugiat nisi? Maiores velit ab perspiciatis, corrupti magnam fugit atque quisquam ut? Amet et saepe impedit beatae aperiam iste neque quas sed ea magnam repellendus a perspiciatis ducimus, corporis ab tempore omnis dolore quo voluptas. Nisi voluptas beatae neque assumenda quo fugit sequi illum ex dolore, laborum delectus ratione inventore fuga commodi soluta voluptatum dolorum pariatur maiores deleniti? Minus fugiat ullam, dolor sint doloremque odio veritatis architecto explicabo repellat, consectetur nesciunt voluptatibus?"
+        }
+      ]
+    }
+  ]
+  

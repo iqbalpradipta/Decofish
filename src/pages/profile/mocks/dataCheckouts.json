@@ -1,0 +1,27 @@
+[
+    {
+      "name": "Chevrolet Chevy 2015",
+      "quantity": 2,
+      "tipe": "Sedan",
+      "model": "Chevrolet 11982",
+      "harga": 100000000,
+      "image": "https://asset.kompas.com/crops/jq9cEEyryqELyEjNQZfkkx3X1eI=/0x0:1000x500/1200x800/data/photo/2017/04/10/3394839643.jpg"
+    },
+    {
+      "name": "Isuzu Panther 2010",
+      "quantity": 5,
+      "tipe": "SUV",
+      "model": "Panther RX-1000",
+      "harga": 200000000,
+      "image": "https://asset.kompas.com/crops/scKt1aZThCvV5n1xX28wx5xznmg=/0x68:1080x788/1200x800/data/photo/2022/09/20/63291a14bbeec.jpg"
+    },
+    {
+      "name": "Daihatsu Sigra 2018",
+      "quantity": 8,
+      "tipe": "MPV 7",
+      "model": "Sigra 2018",
+      "harga": 90000000,
+      "image": "https://mocil.id/uploads/vehicle/size-md-720--Qajax7QntLMccyrNPJ80028okY9WRcMallAZdiI4.jpg"
+    }
+]
+  

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Ikan Koi",
+    "rating": 1.5,
+    "harga": "Rp. 25.000",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpVwrWjMAtamS0GjLHNYA54dx3ePhSQH1Vxw&s"
+  },
+  {
+    "name": "Gold Fish",
+    "rating": 5,
+    "harga": "Rp. 17.000",
+    "image": "https://t3.ftcdn.net/jpg/05/81/17/94/360_F_581179496_6cTu1niY9h4xMIjbN6Y65On83zBFXU6a.jpg"
+  },
+  {
+    "name": "Clown Fish",
+    "rating": 3,
+    "harga": "Rp. 6.800",
+    "image": "https://i.pinimg.com/736x/8e/5e/8c/8e5e8c54f5eaf99c233eb6295f0ff27c.jpg"
+  },
+  {
+    "name": "Fishtank",
+    "rating": 2.5,
+    "harga": "Rp. 3.000",
+    "image": "https://t3.ftcdn.net/jpg/07/14/77/86/360_F_714778647_VIlrggM9HeSE2EA9GupA0ZFTpa74npY5.jpg"
+  },
+  {
+    "name": "Platy Fish",
+    "rating": 4,
+    "harga": "Rp. 50.000",
+    "image": "https://cdn.shopify.com/s/files/1/0311/3149/files/tricolored_platy.jpg?v=1599842816"
+  }
+]
